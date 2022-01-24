@@ -4,7 +4,7 @@ using System.Text;
 
 namespace StaticExercise
 {
-    public class TempConverter
+    public static class TempConverter
     {
         public static double FahrenheitToCelsius(double fahrenheit)
         {
